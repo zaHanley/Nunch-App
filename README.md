@@ -9,6 +9,7 @@ This recipe book app will allow you to customize recipes from the web, or add yo
 - Display single recipes 
 
 # APIs 
+- spoonacular API
 
 # Stretch Goals
 - Generate grocery list based on ingredients of selected recipes
