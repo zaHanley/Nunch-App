@@ -9,6 +9,7 @@ nosh. allows you to create cookbooks(categories) using your own personal recipes
 - Individual recipe display 
 
 # APIs 
+- zestful 
 - spoonacular API (https://spoonacular.com/food-api)
 - myCookBook.io API (https://rapidapi.com/mycookbook/api/mycookbook-io1)
 
