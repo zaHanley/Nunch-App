@@ -1,0 +1,517 @@
+[
+    {
+        "uuid": "f65b447b-ac03-4dcb-830e-b1204e291aac",
+        "customer-uuid": "8e1fc598-2d58-4ae9-b4cc-62364a0c6ce3",
+        "name": "Banana Bar recipe",
+        "original-name": "Banana Bar recipe",
+        "description": "This banana bar recipe is soft and moist with browned butter icing. Think of the best banana bread made into easy to eat bars.",
+        "original-description": "This banana bar recipe is soft and moist with browned butter icing. Think of the best banana bread made into easy to eat bars.",
+        "images": [
+            "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares.jpg"
+        ],
+        "new-images": [
+            {
+                "width": 883,
+                "height": 3000,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 91150,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-1.jpg"
+            },
+            {
+                "width": 1143,
+                "height": 1600,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 46353,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-3.jpg"
+            },
+            {
+                "width": 1143,
+                "height": 1600,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 105701,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares.jpg"
+            },
+            {
+                "width": 1143,
+                "height": 1600,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 46353,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-3.jpg"
+            },
+            {
+                "width": 660,
+                "height": 800,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 68632,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2021/08/Scrumptious-1-660x800.jpg"
+            },
+            {
+                "width": 800,
+                "height": 800,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 48128,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-stack.jpg"
+            },
+            {
+                "width": 660,
+                "height": 391,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 22231,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2019/04/features-660x391.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 30646,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2022/09/one-pan-sausage-sundried-tomato-pasta-14-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 23659,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2019/11/rosemary-turkey-breast-1-2-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 24283,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2017/10/QB2A9675-001-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 21831,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2014/11/pizza-chili-words-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 12783,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2012/10/pistachio-cupcakes-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 16225,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2015/11/pumpkin-eggnog-pie-001-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 18924,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2022/03/mashed-potatoes-34-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 13823,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2012/10/saltine-cracker-toffee-wm-300x300.jpg"
+            },
+            {
+                "width": 250,
+                "height": 250,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 9976,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2017/06/christy-denney.jpeg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 5040,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2014/08/banana-bread-cookies-19-150x150.jpg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 4569,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2016/05/banana-pudding-14-150x150.jpg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 4614,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2018/06/QB2A1521-150x150.jpg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 4661,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2009/02/banana-bread-010-150x150.jpg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 4267,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-150x150.jpg"
+            },
+            {
+                "width": 63,
+                "height": 63,
+                "type": "png",
+                "mime": "image/png",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 3986,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/themes/thegirlwhoateeverything/mobile-header/icon.png"
+            }
+        ],
+        "new-original-images": [
+            {
+                "width": 883,
+                "height": 3000,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 91150,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-1.jpg"
+            },
+            {
+                "width": 1143,
+                "height": 1600,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 46353,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-3.jpg"
+            },
+            {
+                "width": 1143,
+                "height": 1600,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 105701,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares.jpg"
+            },
+            {
+                "width": 1143,
+                "height": 1600,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 46353,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-3.jpg"
+            },
+            {
+                "width": 660,
+                "height": 800,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 68632,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2021/08/Scrumptious-1-660x800.jpg"
+            },
+            {
+                "width": 800,
+                "height": 800,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 48128,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-stack.jpg"
+            },
+            {
+                "width": 660,
+                "height": 391,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 22231,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2019/04/features-660x391.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 30646,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2022/09/one-pan-sausage-sundried-tomato-pasta-14-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 23659,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2019/11/rosemary-turkey-breast-1-2-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 24283,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2017/10/QB2A9675-001-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 21831,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2014/11/pizza-chili-words-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 12783,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2012/10/pistachio-cupcakes-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 16225,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2015/11/pumpkin-eggnog-pie-001-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 18924,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2022/03/mashed-potatoes-34-300x300.jpg"
+            },
+            {
+                "width": 300,
+                "height": 300,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 13823,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2012/10/saltine-cracker-toffee-wm-300x300.jpg"
+            },
+            {
+                "width": 250,
+                "height": 250,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 9976,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2017/06/christy-denney.jpeg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 5040,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2014/08/banana-bread-cookies-19-150x150.jpg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 4569,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2016/05/banana-pudding-14-150x150.jpg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 4614,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2018/06/QB2A1521-150x150.jpg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 4661,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2009/02/banana-bread-010-150x150.jpg"
+            },
+            {
+                "width": 150,
+                "height": 150,
+                "type": "jpg",
+                "mime": "image/jpeg",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 4267,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2010/06/monkey-squares-150x150.jpg"
+            },
+            {
+                "width": 63,
+                "height": 63,
+                "type": "png",
+                "mime": "image/png",
+                "wUnits": "px",
+                "hUnits": "px",
+                "length": 3986,
+                "url": "https://www.the-girl-who-ate-everything.com/wp-content/themes/thegirlwhoateeverything/mobile-header/icon.png"
+            }
+        ],
+        "ingredients": [
+            "1 ½ cups sugar",
+            "1 cup sour cream",
+            "½ cup unsalted butter, softened",
+            "2 large eggs",
+            "1 ¾ cups 3 or 4 ripe bananas, mashed",
+            "2 teaspoons vanilla",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "¾ teaspoon salt",
+            "½ cup chopped walnuts (optional)",
+            "½ cup unsalted butter",
+            "3 3/4 cups powdered sugar",
+            "1 teaspoon vanilla",
+            "about 3 tablespoons milk or half and half"
+        ],
+        "original-ingredients": [
+            "1 ½ cups sugar",
+            "1 cup sour cream",
+            "½ cup unsalted butter, softened",
+            "2 large eggs",
+            "1 ¾ cups 3 or 4 ripe bananas, mashed",
+            "2 teaspoons vanilla",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "¾ teaspoon salt",
+            "½ cup chopped walnuts (optional)",
+            "½ cup unsalted butter",
+            "3 3/4 cups powdered sugar",
+            "1 teaspoon vanilla",
+            "about 3 tablespoons milk or half and half"
+        ],
+        "instructions": [
+            {
+                "steps": [
+                    "Heat oven to 375 degrees. Grease and flour 10x15 jelly roll pan or line with parchment paper (for thicker bars use a 9x13 pan and bake for 10 minutes longer than directed). In a large mixing bowl, beat first four wet ingredients with an electric mixer or stand mixture with the paddle attachment until creamy.until creamy. Blend in the mashed bananas and vanilla for one minute. Add dry ingredients and blend flour mixture for one minute. Stir in nuts and pour batter into the pan. Bake 20 to 25 minutes until golden brown. Cool slighty until warm but not hot and frost with Browned Butter Frosting (recipe below).",
+                    "For the Browned Butter Frosting Recipe: Heat butter in saucepan over medium heat past the melting point until it is boiling and a delicate brown. Remove from the heat and immediately add the remaining ingredients. This should be thicker than a glaze and thinner than frosting. You can add milk to get it to the correct consistency. Using a spatula smooth over the top of the banana bars immediately for the best results. The frosting will be easier to spread once it's on the warm bread."
+                ]
+            }
+        ],
+        "original-instructions": [
+            {
+                "steps": [
+                    "Heat oven to 375 degrees. Grease and flour 10x15 jelly roll pan or line with parchment paper (for thicker bars use a 9x13 pan and bake for 10 minutes longer than directed). In a large mixing bowl, beat first four wet ingredients with an electric mixer or stand mixture with the paddle attachment until creamy.until creamy. Blend in the mashed bananas and vanilla for one minute. Add dry ingredients and blend flour mixture for one minute. Stir in nuts and pour batter into the pan. Bake 20 to 25 minutes until golden brown. Cool slighty until warm but not hot and frost with Browned Butter Frosting (recipe below).",
+                    "For the Browned Butter Frosting Recipe: Heat butter in saucepan over medium heat past the melting point until it is boiling and a delicate brown. Remove from the heat and immediately add the remaining ingredients. This should be thicker than a glaze and thinner than frosting. You can add milk to get it to the correct consistency. Using a spatula smooth over the top of the banana bars immediately for the best results. The frosting will be easier to spread once it's on the warm bread."
+                ]
+            }
+        ],
+        "yield": "16",
+        "original-yield": "16",
+        "prep-time": "PT10M",
+        "original-prep-time": "PT10M",
+        "cook-time": "PT30M",
+        "original-cook-time": "PT30M",
+        "total-time": "PT40M",
+        "original-total-time": "PT40M",
+        "url": "https://www.the-girl-who-ate-everything.com/monkey-squares/",
+        "created": "2022-12-13T15:08:37.329733+00:00",
+        "created-by": "RapidAPI",
+        "updated": "2022-12-13T15:08:37.329733+00:00"
+    }
+]
