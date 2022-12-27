@@ -1,0 +1,193 @@
+[
+{
+  "model": "nosh_app.recipe",
+  "pk": 1,
+  "fields": {
+    "name": "brussies",
+    "instructions": "cut them in half, season them, cook them, eat them",
+    "ingredients": "16 oz Brussels sprouts, 3 tbsp olive oil, 1/2 teaspoon kosher salt and black pepper, 1 tsp italian seasoning, 3 garlic cloves - minced, 1/2 cup grated parmesan cheese",
+    "description": "This Brussels sprouts recipe makes a flavorful and elegant side dish. The best roasted Brussels sprouts side, perfect for any Holiday table!",
+    "image_url": "https://www.eatwell101.com/wp-content/uploads/2020/09/Parmesan-Roasted-Brussels-Sprouts-recipe-1.jpg",
+    "time": "25",
+    "quantity": "2"
+  }
+},
+{
+  "model": "nosh_app.recipe",
+  "pk": 2,
+  "fields": {
+    "name": "pizza",
+    "instructions": "make the dough, cook the pizza, enjoy",
+    "ingredients": "dough, pepperoni, cheese, pineapple",
+    "description": "tasty yum yum pizza for your mouth to enjoy",
+    "image_url": "",
+    "time": "30",
+    "quantity": "2"
+  }
+},
+{
+  "model": "nosh_app.recipe",
+  "pk": 3,
+  "fields": {
+    "name": "egg sandwich",
+    "instructions": "cook eggs, cook sausage, toast bagel, spread butter, assemble, enjoy",
+    "ingredients": "2 eggs, bagel, 2 sausage patties, cheddar cheese",
+    "description": "super delish breakfast sammy for the fammy",
+    "image_url": "",
+    "time": "5",
+    "quantity": "1"
+  }
+},
+{
+  "model": "nosh_app.recipe",
+  "pk": 4,
+  "fields": {
+    "name": "Cranberry Bars",
+    "instructions": "In a saucepan over medium heat, combine the cranberries, white sugar, and water. Cook, stirring occasionally until all of the cranberries have popped, and the mixture is thick, about 15 minutes. Remove from heat, and set aside to cool. Preheat the oven to 350 degrees F (175 degrees C), In a large bowl, mix together the cake mix, melted butter, and eggs. Stir in the oats, brown sugar, ginger and cinnamon. Set aside about 1 1/2 cups of the mixture, and spread the rest into the bottom of a 9x13 inch baking dish. Pack down to form a solid crust, getting it as even as possible. Spread the cooled cranberry mixture over the crust. Pinch off pieces of the remaining mixture and place evenly over the cranberry layer. Bake for 35 to 40 minutes in the preheated oven, until the top is lightly browned. Cool in the pan for about 40 minutes before slicing into bars.",
+    "ingredients": "1 (12 ounce) package whole cranberries, 1 cup white sugar, 3/4 cup water, 1 (18.25) ounce package yellow cake mix, 3/4 cup butter, melted, 2 eggs, 1 cup rolled oats, 3/4 cup packed light brown sugar, 1 tsp ground ginger, 1 tsp ground cinnamon",
+    "description": "A yummy bar that is tart and sweet at the same time. Easy to put together and your home will smell wonderful while they're baking!",
+    "image_url": "https://www.allrecipes.com/thmb/p1X16avmVT_37ROaJmd5-Ny57tY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/55487-524ee85fe020423b95dc48e555fc167d.jpg",
+    "time": "30",
+    "quantity": "8"
+  }
+},
+{
+  "model": "nosh_app.recipe",
+  "pk": 5,
+  "fields": {
+    "name": "Garlic Parmesan Browned Butter Mashed Potatoes",
+    "instructions": "Peel potatoes and cut into large chunks. Boil in salted water for 20 minutes or until fork tender (not falling apart). Halfway through cooking time, prepare browned butter: Heat butter in a small pan over medium-heat. When butter begins to foam, add the crushed garlic and reduce heat to medium. Stir continuously and swirl the pan until the butter it begins to change colour and turn golden brown with a nutty aroma. Its normal to see crispy little brown bits at the bottom of the pan. Remove immediately from heat. Set aside. Drain potatoes and transfer them back to the pot. Strain just over half of the browned butter over the boiled potatoes through a sieve. Reserve crispy garlic pieces to serve later. Add the parmesan cheese and milk. Beat with a hand beater until smooth and creamy (about 1-2 minutes) -- or use a potato masher. Add extra milk if you like a thinner mashed potato consistency. Taste test and season with more salt if needed. Serve with reserved browned butter, extra parmesan cheese, chopped parsley and crispy garlic pieces.",
+    "ingredients": "3 pounds (1.5 kg) potatoes of choice ((Chat Washed, Yukon Gold or Russet Potatoes), peeled), 6 oz (185 g) unsalted butter, 4 cloves garlic, (crushed), 1/2 cup grated parmesan cheese, 1 cup milk (more if needed)",
+    "description": "Get your pots and pans out! Garlic Parmesan Browned Butter Mashed Potatoes is the ultimate mashed potatoes recipe everyone will fall in love with. You haven't lived until you've tried mashed potatoes with browned butter!",
+    "image_url": "https://cafedelites.com/wp-content/uploads/2015/11/Garlic-Parmesan-Browned-Butter-Mashed-Potatoes-Collage.jpg",
+    "time": "35",
+    "quantity": "6"
+  }
+},
+{
+  "model": "nosh_app.recipe",
+  "pk": 6,
+  "fields": {
+    "name": "Spicy Tuna Rice Bowl",
+    "instructions": "Pour rice into a heavy pot and add water; swirl to allow rice to settle. Bring to a simmer over medium-high heat; do not stir. Reduce heat to low, cover, and continue to simmer for 15 minutes. While rice is cooking, place tuna into a large mixing bowl and break up with your hands or a fork. Toss in red bell pepper, jalapeno, 1/4 cup green onions, rice vinegar, lemon juice, soy sauce, Sriracha, and sesame oil. Mix with a fork until thoroughly combined. Turn off heat and let rice sit, covered, for 10 minutes. Fluff rice with a fork to separate the grains and break up any large clumps; transfer into the mixing bowl. Mix thoroughly with a spoon until all the ingredients are evenly incorporated. Taste and adjust seasoning if needed. Serve warm, at room temperature, or cold like a rice salad, topped with red pepper flakes and 1 teaspoon green onion.",
+    "ingredients": "1 cup uncooked long-grain rice, 1 ½ cups water, 1 (7 ounce) jar tuna packed in olive oil, ½ cup finely diced red bell pepper, ¼ cup finely diced jalapeno pepper, ¼ cup finely sliced green onions, ⅓ cup seasoned rice vinegar, ½ lemon, juiced, or to taste, 2 tablespoons soy sauce, 2 teaspoons Sriracha hot sauce, ½ teaspoon sesame oil, 1 pinch Korean red pepper flakes (gochugaru), or to taste, 1 teaspoon finely sliced green onion, or to taste",
+    "description": "Equal parts tuna and rice combine to make Chef John's spicy tuna rice bowl satisfying and delicious. It comes together in a flash for an easy dish.",
+    "image_url": "https://www.allrecipes.com/thmb/pH4X4vUdiTL4BqQS_jQz2wfp6IQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7757838-62906b4d20484cb58b604841b44af691.jpg",
+    "time": "35",
+    "quantity": "6"
+  }
+},
+{
+  "model": "nosh_app.recipe",
+  "pk": 7,
+  "fields": {
+    "name": "Cacio e Pepe",
+    "instructions": 
+      "Bring 3 quarts water to a boil in a 5-qt. pot. Season with salt; add pasta and cook, stirring occasionally, until about 2 minutes before tender. Drain, reserving ¾ cup pasta cooking water. Meanwhile, melt 2 Tbsp. butter in a Dutch oven or other large pot or skillet over medium heat. Add pepper and cook, swirling pan, until toasted, about 1 minute. Add ½ cup reserved pasta water to skillet and bring to a simmer. Add pasta and remaining butter. Reduce heat to low and add Grana Padano, stirring and tossing with tongs until melted. Remove pan from heat; add Pecorino, stirring and tossing until cheese melts, sauce coats the pasta, and pasta is al dente. (Add more pasta water if sauce seems dry.) Transfer pasta to warm bowls and serve.",
+    "ingredients": "Kosher salt, 6 oz. pasta (such as egg tagliolini, bucatini, or spaghetti), 3 Tbsp. unsalted butter, cubed, divided, 1 tsp. freshly cracked black pepper, ¾ cup finely grated Grana Padano or Parmesan, ⅓ cup finely grated Pecorino",
+    "description": "Literally 'cheese and pepper', this minimalist cacio e pepe recipe is like a stripped-down mac and cheese.",
+    "image_url": "https://assets.bonappetit.com/photos/57afff371b33404414976059/master/w_940,h_550,c_limit/cacio-e-pepe.jpg",
+    "time": "5",
+    "quantity": "2"
+  }
+},
+{
+  "model": "nosh_app.cookbook",
+  "pk": 1,
+  "fields": {
+    "user": 3,
+    "name": "Cookbook One"
+  }
+},
+{
+  "model": "nosh_app.cookbook",
+  "pk": 2,
+  "fields": {
+    "user": 3,
+    "name": "Hana's Book"
+  }
+},
+{
+  "model": "nosh_app.cookbook",
+  "pk": 3,
+  "fields": {
+    "user": 3,
+    "name": "Annual Book"
+  }
+},
+{
+  "model": "nosh_app.section",
+  "pk": 1,
+  "fields": {
+    "cookbook": 1,
+    "name": "staples"
+  }
+},
+{
+  "model": "nosh_app.section",
+  "pk": 2,
+  "fields": {
+    "cookbook": 1,
+    "name": "breakfast"
+  }
+},
+{
+  "model": "nosh_app.section",
+  "pk": 3,
+  "fields": {
+    "cookbook": 2,
+    "name": "italian"
+  }
+},
+{
+  "model": "nosh_app.section",
+  "pk": 4,
+  "fields": {
+    "cookbook": 2,
+    "name": "lunch"
+  }
+},
+{
+  "model": "nosh_app.section",
+  "pk": 5,
+  "fields": {
+    "cookbook": 3,
+    "name": "2021"
+  }
+},
+{
+  "model": "nosh_app.section",
+  "pk": 6,
+  "fields": {
+    "cookbook": 3,
+    "name": "2022"
+  }
+},
+{
+  "model": "nosh_app.cookbookrecipe",
+  "pk": 1,
+  "fields": {
+    "cookbook": 1,
+    "recipe": 1,
+    "section": 1
+  }
+},
+{
+  "model": "nosh_app.cookbookrecipe",
+  "pk": 2,
+  "fields": {
+    "cookbook": 1,
+    "recipe": 2,
+    "section": 1
+  }
+},
+{
+  "model": "nosh_app.cookbookrecipe",
+  "pk": 3,
+  "fields": {
+    "cookbook": 1,
+    "recipe": 3,
+    "section": 2
+  }
+}
+]
