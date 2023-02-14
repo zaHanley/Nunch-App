@@ -2,10 +2,8 @@ import { useEffect, useState, createContext } from "react";
 import dotenv from "dotenv";
 import "bootswatch/dist/lux/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
-// import './App.css'
 import { Container, Button, Row, Col } from "react-bootstrap";
 import axios, { all } from "axios";
-// in order to use the routes between components, we need to use react router components
 import Pages from "./pages/Pages";
 import Home from "./pages/Home";
 import Popular from "./components/Popular";
@@ -80,15 +78,6 @@ function App() {
             <Route path="/dev" element={<Auth loginStatus={loginStatus} setLoginStatus={setLoginStatus}/>}></Route>
           </Routes>
         )}
-
-        {/* <Routes>
-          <Route path="/" element={<Home />}></Route>
-          <Route path="/signin" element={<Auth />}></Route>
-          <Route path="/cookbooks" element={<CreateRecipe user={user}/>}></Route>
-          <Route path="/browse" element={<TestBook user={user}/>}></Route>
-          <Route path="/dev" element={<Auth />}></Route>
-          {/* <Route path='/cookbooks/:cookbookId/sections/:sectionId'  */}
-        {/* </Routes> */}
       </Router>
     </div>
   );
