@@ -35,14 +35,7 @@ def sign_in(request):
 @api_view(["GET"])
 def curr_user(request):
     if request.user.is_authenticated:
-        print(request.user.id)
         datatest = request.user.id
-        # data = serializers.serialize(
-        #     "json",
-        #     [request.user],
-        #     # fields=["first_name", "last_name", "email", 'id'],
-        # )
-        # return HttpResponse(data)
         return JsonResponse({'success': True, 'id': datatest})
     else:
         return JsonResponse({'success': False, "message": "User not authenticated"})
@@ -99,8 +92,6 @@ def import_recipe(request):
         }
         response = requests.request("POST", url, data=payload, headers=headers)
         json_data = response.json()
-        
-        print(json_data)
         return JsonResponse(json_data, safe=False)
         
 
@@ -110,12 +101,8 @@ def browse(request):
     if request.method == "GET":
         # user_id = request.GET.get("user_id")
         user = User.objects.get(id=request.user.id)
-        print(user)
         cookbooks = Cookbook.objects.filter(user=user.id)
-        print(cookbooks)
-
         cookbook_recipes = CookbookRecipe.objects.filter(cookbook__in=cookbooks)
-        print(cookbook_recipes)
         cookbook_data = []
         for cookbook_recipe in cookbook_recipes:
             cookbook = cookbook_recipe.cookbook
@@ -139,7 +126,6 @@ def browse(request):
                     ],
                 }
             )
-            print(cookbook_data)
             json_data = json.dumps(cookbook_data)
         return HttpResponse(json_data, content_type="application/json")
 
@@ -165,9 +151,7 @@ def user_storage(request):
         cookbook.save()    
         return JsonResponse({'success': True})
     elif request.method == "DELETE":
-        print('im in here')
         cookbook = Cookbook.objects.get(id=request.data['cookbook_id'])
-        print(cookbook)
         cookbook.delete()
         return JsonResponse({'success': True})
     
@@ -184,7 +168,6 @@ def cookbook_by_id(request, cookbook_id):
     if request.method == "GET":
         cookbook = Cookbook.objects.all().filter(id=cookbook_id)
         data = serialize("json", cookbook)
-        print(data)
         return HttpResponse(data)
 
 
@@ -219,7 +202,6 @@ def recipes(request):
         section.save()    
         return JsonResponse({'success': True})
     elif request.method == 'PUT':
-        print('updating :', request.data['recipe_id'])
         return JsonResponse({'success': True})
     elif request.method == "DELETE":
         recipe = Recipe.objects.get(id=request.data['recipe_id'])
@@ -247,7 +229,6 @@ def recipe_by_id(request, cookbook_id, section_id, recipe_id):
         cookbook = Cookbook.objects.get(id=cookbook_id)
         section = cookbook.section_set.get(id=section_id)
         recipe = section.recipes.filter(id=recipe_id)
-        print(recipe)
         data = serialize("json", recipe)
         return HttpResponse(data)
 
@@ -271,74 +252,5 @@ def recipe(request):
 
         cookbook_recipe = CookbookRecipe(cookbook=cookbook, section=section, recipe=new_recipe)
         cookbook_recipe.save()
-        
-        
-        print(request.data)
+
         return HttpResponse({'success': True})
-
-
-# @api_view(["GET", "PUT", "DELETE"])
-# def category(request, category_id):
-#     if request.method == 'GET':
-#         qs = Category.objects.filter(id=category_id)
-#         data = serialize('json', qs, fields=('title'))
-#         return HttpResponse(data, content_type='application/json')
-
-#     elif request.method == 'PUT':
-#         print(request.data)
-#         title = request.data['title']
-#         Category.objects.filter(id=category_id).update(title=title)
-#         return JsonResponse({'success': True, 'title': request.data["title"]})
-
-#     elif request.method == 'DELETE':
-#         category_id = request.data['id']
-#         Category.objects.filter(id=category_id).delete()
-#         return JsonResponse({'success': True, 'id': category_id})
-
-
-# @api_view(["GET"])
-# def posts(request):
-#     if request.method == 'GET':
-#         qs = Post.objects.all().order_by('id')
-#         data = serialize('json', qs, fields=('title', 'content', 'category'))
-
-#         return HttpResponse(data, content_type='application/json')
-
-
-# @api_view(["GET", "PUT"])
-# def post(request, post_id):
-#     if request.method == "GET":
-#         qs = Post.objects.filter(id=post_id)
-#         data = serialize('json', qs, fields=('title', 'content', 'category'))
-#         print(data)
-#         return HttpResponse(data, content_type='application/json')
-#     elif request.method == "PUT":
-#         content = request.data['content']
-#         Post.objects.filter(id=post_id).update(content=content)
-#         return JsonResponse({'success': True, 'title': request.data["content"]})
-
-
-# @api_view(["GET", "POST"])
-# def category_posts(request, category_id):
-#     """
-#         GET: Return all posts for a specific category
-#         POST: Create a new post for a specific category
-#     """
-#     if request.method == "GET":
-#         qs = Post.objects.filter(category=category_id)
-#         data = serialize('json', qs, fields=('title', 'content', 'category'))
-#         return HttpResponse(data, content_type='application/json')
-#     elif request.method == "POST":
-#         print(request)
-#         title = request.data['title']
-#         category = request.data['category']
-#         content = request.data['content']
-#         newPost = Post(title=title, category_id=category, content=content)
-#         newPost.save()
-#         return JsonResponse({'success': True, 'title': request.data['title']})
-
-
-# @api_view(["GET"])
-# def category_post(request, category_id, post_id):
-
-#     pass
